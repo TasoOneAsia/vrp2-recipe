@@ -1,0 +1,9 @@
+$engine: 2
+name: vRP Next
+version: v1.0.0
+author: Taso
+description: A recipe for deploying a fully fledged vRP 2 Instance
+
+tasks:
+  - action:
+  
